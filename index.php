@@ -36,8 +36,8 @@
 
     <div class="container">
         <div class="jumbotron">
-            <h1>Registre Productos </h1>
-            <p>Consulte ,modifique, cree y elimine productos de su inventario</p>
+            <h1>Registro Productos </h1>
+            <p>Consulte, modifique, cree y elimine productos de su inventario...</p>
             <br><br>
             <a href="https://github.com/EdissonCamacho/registroProductos"><span  uk-icon="icon: github"></span></a>
         <span uk-icon="icon: whatsapp"></span>
