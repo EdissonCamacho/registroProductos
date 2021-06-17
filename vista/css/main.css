@@ -1,0 +1,29 @@
+.btn-crear {
+    border-radius: 15px;
+}
+
+#imagenTabla {
+    width: 100px;
+    height: 100px;
+}
+
+#btnmod {
+    border-radius: 5px;
+}
+
+#btnDel {
+    border-radius: 5px;
+}
+
+#imagenPr {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.jumbotron {
+    background-image: url("../fondo/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
