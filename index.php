@@ -39,7 +39,7 @@
             <h1>Registre Productos </h1>
             <p>Consulte ,modifique, cree y elimine productos de su inventario</p>
             <br><br>
-        <span uk-icon="icon: github"></span>
+            <a href="https://github.com/EdissonCamacho/registroProductos"><span  uk-icon="icon: github"></span></a>
         <span uk-icon="icon: whatsapp"></span>
         <span uk-icon="icon: discord"></span>
         <br><br>
